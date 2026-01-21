@@ -4,7 +4,7 @@ Primary focus: Distributed Systems (for compute and data), Platformizing complex
 
 For **compute** and **data transfer**:
 - **Current tooling**: Python, Ray Serve, K8s/Kopf, Pytorch, Kafka, Metaflow/Airflow, Spark
-- **Past tooling**: Typescript, React/Node
+- **Past tooling**: Typescript, React/Node, VueJS
 
 For **data storage**: PG, Mongo, Iceberg, Snowflake, Redis
 
