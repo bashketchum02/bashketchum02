@@ -1,5 +1,3 @@
-I solve problems, the tools I use are a means to an end.
+I am still figuring out what I really like about engineering. Recently I have deeply been moved by, [egoless.engineering](https://egoless.engineering/) and trying my best to develop my engineering philosophy based on experience.
 
-Primary focus: Distributed Systems (for compute and data), Platformizing complex underlying systems, Deep Learning
-
-Currently @ [grab](https://engineering.grab.com/)
+Currently @ [grab](https://engineering.grab.com/) working on core AI infrastructure and platforms
